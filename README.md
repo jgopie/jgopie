@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgopie
-- 👀 I’m interested in primarily web development
-- 🌱 I’m currently learning Rust!
+- 👀 I’m interested primarily in web development
+- 🌱 I’m currently expanding my knowledge of JavaScript, TypeScript, and Node!
 - 📫 Shoot me a private message if you want to get in touch!
 
 <!---
