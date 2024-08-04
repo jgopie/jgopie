@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jgopie
-- 👀 I’m interested primarily in web development
-- 🌱 I’m currently expanding my knowledge of JavaScript, TypeScript, and Node!
-- 📫 Shoot me a private message if you want to get in touch!
+- 👋 Hi, I'm Jordan. I'm a freelance developer working with web and mobile applications.
 
 <!---
 jgopie/jgopie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
